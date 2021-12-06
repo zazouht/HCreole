@@ -1,0 +1,82 @@
+abbr,
+acronym {
+    border: 0;
+}
+
+samp {
+    color: #e20f0f;
+    background: #1e1e1e;
+}
+
+code,
+.codeblock,
+.code {
+    background: #1e1e1e;
+    color: lawngreen;
+    max-width: 100%;
+}
+
+.code {
+    color: yellowgreen;
+    border: 1px ridge grey;
+    display: block;
+}
+
+.codeline {
+    display: inline;
+    color: green;
+}
+
+.codeblock {
+    display: block;
+    margin: 2px;
+    color: rgb(177, 192, 40);
+}
+
+.syntax {
+    color: blue;
+}
+
+.identifier {
+    color: mediumvioletred;
+}
+
+.keyword {
+    color: #c25457;
+}
+
+.valuecode {
+    color: white;
+}
+.result {
+    color: yellow;
+}
+
+.example {
+    color: #1e1e1e;
+}
+.comments {
+    color: grey;
+}
+
+.tips {
+    padding: 15px;
+    background: white;
+    color: #768197;
+    font-size: 1.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 1px gray groove;
+    margin: 6px;
+}
+
+.warning {
+    text-align: none;
+}
+
+.important {
+    text-align: none;
+}
+
+.icon {
+    max-width: 48px;
+}
